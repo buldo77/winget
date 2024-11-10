@@ -1,3 +1,5 @@
+# Usage: winget import https://github.com/buldo77/winget/blob/main/default-apps.json
+
 {
     "$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
     "CreationDate" : "2024-09-23T19:48:24.661-00:00",
